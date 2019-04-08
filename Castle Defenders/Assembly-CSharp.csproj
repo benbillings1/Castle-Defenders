@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\EnemyConfiguration.cs" />
     <Compile Include="Assets\Scripts\EnemyDragon.cs" />
+    <Compile Include="Assets\Scripts\Node.cs" />
+    <Compile Include="Assets\Scripts\PlayerDragon.cs" />
     <None Include="Assets\Imports\citations.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Benjamin/Documents/Castle Defenders/Castle Defenders/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
